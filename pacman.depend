@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1711049831 source:c:\users\dell\desktop\pacman\main.cpp
+	<ctype.h>
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+
